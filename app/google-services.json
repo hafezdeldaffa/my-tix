@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868447231033",
+    "project_id": "my-tix-8b99f",
+    "storage_bucket": "my-tix-8b99f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868447231033:android:83219c6a03110a01ba81e8",
+        "android_client_info": {
+          "package_name": "com.hafezdeldaffa.mytix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868447231033-2tm47kttpjor831r2qh8bd3vpedc6qvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLS2bw3z_HaUpEoDuMvQ5LBj9G9D1VBD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868447231033-2tm47kttpjor831r2qh8bd3vpedc6qvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
